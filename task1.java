@@ -37,7 +37,7 @@ public class task1 {
                 break;
             default:
                 System.out.println("Operator cannot be processed");
-                return;
+                break;
         }
 
         System.out.println("Result: " + result);
